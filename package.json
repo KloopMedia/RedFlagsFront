@@ -1,6 +1,7 @@
 {
   "name": "red-flags",
   "description": "",
+  "homepage": "https://kloopmedia.github.io/RedFlagsFront/",
   "author": "aTNa-Lab",
   "version": "1.0.0",
   "dependencies": {
@@ -57,5 +58,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
